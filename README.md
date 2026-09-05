@@ -44,6 +44,17 @@ This repository is being developed as a reproducible implementation of the origi
 
 ---
 
+## 🔗 Research Software DOI | 科研软件 DOI
+
+**Version 1.0.0**
+
+Zenodo DOI: **10.5281/zenodo.22334107**
+
+This research software has been publicly archived on Zenodo with a persistent DOI.
+
+本项目首个公开科研软件版本已通过 Zenodo 完成永久归档，并获得可引用 DOI。
+
+
 # 🔍 Research Question | 研究问题
 
 本项目主要围绕以下几个问题展开：
