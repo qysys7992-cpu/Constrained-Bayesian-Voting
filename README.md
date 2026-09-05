@@ -199,6 +199,19 @@ Season Effects
 Individual Effects
         ↓
 Latent Fan Preference Distribution
+
+
+# 📖 Citation | 引用
+
+Recommended citation:
+
+Wang, Zichen, Chen, Hongfei, & Liang, Shaotian. (2026).
+*Constrained Bayesian Voting: Latent Preference Inference and Hybrid Voting Mechanism Analysis* (Version 1.0.0) [Computer software].
+Zenodo. https://doi.org/10.5281/zenodo.22334107
+
+推荐引用 DOI：
+
+**10.5281/zenodo.22334107**
         ↓
 Elimination Constraints
         ↓
