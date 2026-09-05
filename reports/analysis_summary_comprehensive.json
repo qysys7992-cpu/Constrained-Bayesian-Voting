@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-30T16:41:18.102600",
+    "n_weeks": 241,
+    "n_seasons": 34
+  },
+  "model_performance": {
+    "convergence_rate": 0.9294605809128631,
+    "mean_rhat": 251080056.01649863,
+    "mean_uncertainty": 72.712342430778
+  },
+  "voting_systems": {
+    "Rank": {
+      "accuracy": 0.6411701244813278,
+      "std": 0.3935992784406058
+    },
+    "Percentage": {
+      "accuracy": 0.846478561549101,
+      "std": 0.3604817298723247
+    },
+    "Rank + Judge Save": {
+      "accuracy": 0.38502904564315354,
+      "std": 0.4169790271329634
+    },
+    "Percentage + Judge Save": {
+      "accuracy": 0.5335684647302905,
+      "std": 0.40177252043370415
+    }
+  },
+  "dwr_system": {
+    "mad_score": 25.48383648179135,
+    "improvement": 0.901454615306298,
+    "parameters": {
+      "k": 0.3,
+      "historical_std": 2.7135446024743897
+    }
+  },
+  "key_findings": {
+    "best_system": "Percentage",
+    "best_accuracy": 0.846478561549101,
+    "judge_save_penalty": 0.28452558782849235
+  }
+}
