@@ -200,7 +200,6 @@ Individual Effects
         ↓
 Latent Fan Preference Distribution
 
-
 # 📖 Citation | 引用
 
 Recommended citation:
